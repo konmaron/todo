@@ -1,0 +1,39 @@
+.header{
+    width: 400px;
+    text-align: center;
+    height: 35px;
+}
+
+::placeholder{
+    color: #5C98F8;
+    font-size: 16px;
+    padding-left: 10px;
+    opacity: 0.5;
+}
+
+input, select, textarea{
+    color: #5C98F8;
+    font-size: 16px;
+}
+
+.addButton{
+    height: 33px;
+    width: 90px;
+    margin: 0 5px 0 15px;
+    padding: 0;
+    background-color: #5C98F8;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 3px;
+    border: none;
+}
+
+.headerInput{
+    height: 29px;
+    width: 286px;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+    border: groove 1px;
+}

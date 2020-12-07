@@ -1,6 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58ba86f2-fa78-431c-9efd-a6974adceaa0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Todo/Todo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todo/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoAdd/TodoAdd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoAdd/TodoAdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoApp/TodoApp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoApp/TodoApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todos/Todos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todos/Todos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1l9afE8tRfD83HiIVFJGAb0kCve" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Todos" />
+      <recent name="$PROJECT_DIR$/src/components/TodoApp" />
+      <recent name="$PROJECT_DIR$/src/components/TodoAdd" />
+      <recent name="$PROJECT_DIR$/src/components/Todo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58ba86f2-fa78-431c-9efd-a6974adceaa0" name="Default Changelist" comment="" />
+      <created>1607011861381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607011861381</updated>
+      <workItem from="1607011862504" duration="3442000" />
+      <workItem from="1607085083756" duration="7690000" />
+      <workItem from="1607174717410" duration="4408000" />
+      <workItem from="1607252220716" duration="4036000" />
+      <workItem from="1607257240281" duration="2853000" />
+      <workItem from="1607261068341" duration="430000" />
+      <workItem from="1607344625631" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607105102903">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state x="184" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.801/0.-1080.1920.1080@0.25.1440.801" timestamp="1607105102903" />
+    <state x="229" y="63" key="SettingsEditor" timestamp="1607012062541">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/0.25.1440.804/0.-1080.1920.1080@0.25.1440.804" timestamp="1607012062541" />
+    <state x="489" y="-992" width="1050" height="530" key="dock-window-1" timestamp="1607257799406">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="489" y="-992" width="1050" height="530" key="dock-window-1/0.25.1440.801/0.-1080.1920.1080@0.25.1440.801" timestamp="1607257799406" />
+    <state x="865" y="-1078" width="1055" height="1078" key="dock-window-1/0.25.1440.804/0.-1080.1920.1080@0.25.1440.804" timestamp="1607175541494" />
+    <state x="385" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1607012178219">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="385" y="153" width="670" height="676" key="search.everywhere.popup/0.25.1440.804/0.-1080.1920.1080@0.25.1440.804" timestamp="1607012178219" />
   </component>
 </project>
