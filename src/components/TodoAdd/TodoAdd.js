@@ -1,16 +1,27 @@
 import React from "react";
 import './TodoAdd.css'
+import {Context} from "../TodoApp/TodoApp";
 
-export default function TodoAdd({value, onChange, addClickHandler}){
+export default function TodoAdd() {
     return (
-        <div className="header">
-            <input type='text'
-                   value={value}
-                   onChange={onChange}
-                   className='headerInput'
-                   placeholder='Type your todo'
-            />
-            <button onClick={() => addClickHandler()} className='addButton'>ADD</button>
-        </div>
+        <Context.Consumer>
+            {
+                cntx => {
+                    return (
+                        <div className="header">
+                            <form action='#' onSubmit={cntx.submitHandler}>
+                                <input type='text'
+                                       className='headerInput'
+                                       placeholder='Type your todo'
+                                       name='inp'
+                                />
+                                <button className='addButton'>ADD</button>
+                            </form>
+                        </div>
+                    )
+                }
+            }
+        </Context.Consumer>
+
     )
 }

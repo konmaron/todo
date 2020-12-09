@@ -1,15 +1,26 @@
 import './Todo.css';
+import {Context} from "../TodoApp/TodoApp";
 
-
-export default function Todo({todo, index, remove, onChangeStatus}){
-    return(
-        <li key={index}>
-        <input type='checkbox'
-               className='checkbox'
-               checked={todo.isDone}
-               onChange={(event => onChangeStatus(index, event.target.checked))}
-        />
-        <span style={{textDecoration:todo.isDone ? 'line-through' : 'none'}}>{todo.title}</span>
-        <button onClick={() => remove(index)} className='removeButton'>REMOVE</button>
-    </li>)
-    }
+export default function Todo({index}) {
+    return (
+        <Context.Consumer>
+            {
+                cntx => {
+                    return (
+                        <li key={index} id={index}>
+                            <input type='checkbox'
+                                   className='checkbox'
+                                   checked={cntx.todos[index].isDone}
+                                   onChange={(event => cntx.onChangeStatus(index, event.target.checked))}
+                            />
+                            <span style={{textDecoration: cntx.todos[index].isDone ? 'line-through' : 'none'}}>
+                                {cntx.todos[index].title}
+                            </span>
+                            <button onClick={() => cntx.remove(index)} className='removeButton'>REMOVE</button>
+                        </li>
+                    )
+                }
+            }
+        </Context.Consumer>
+    )
+}
