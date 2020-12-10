@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58ba86f2-fa78-431c-9efd-a6974adceaa0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Todo/Todo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo/Todo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoAdd/TodoAdd.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoAdd/TodoAdd.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoAdd/TodoAdd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoAdd/TodoAdd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoApp/TodoApp.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoApp/TodoApp.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoApp/TodoApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoApp/TodoApp.js" afterDir="false" />
-    </list>
+    <list default="true" id="58ba86f2-fa78-431c-9efd-a6974adceaa0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +71,7 @@
       <workItem from="1607420143034" duration="4740000" />
       <workItem from="1607540899394" duration="32000" />
       <workItem from="1607545280768" duration="2769000" />
+      <workItem from="1607590129982" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="whole code">
       <created>1607344998661</created>
