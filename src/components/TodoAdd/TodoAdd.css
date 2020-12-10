@@ -5,14 +5,14 @@
 }
 
 ::placeholder{
-    color: #5C98F8;
+    color: #2699FB;
     font-size: 16px;
     padding-left: 10px;
     opacity: 0.5;
 }
 
 input, select, textarea{
-    color: #5C98F8;
+    color: #2699FB;
     font-size: 16px;
 }
 
@@ -21,12 +21,13 @@ input, select, textarea{
     width: 90px;
     margin: 0 5px 0 15px;
     padding: 0;
-    background-color: #5C98F8;
+    background-color: #2699FB;
     color: #fff;
     font-size: 16px;
     font-weight: bold;
     border-radius: 3px;
     border: none;
+    cursor: pointer;
 }
 
 .headerInput{
