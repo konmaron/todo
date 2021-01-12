@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58ba86f2-fa78-431c-9efd-a6974adceaa0" name="Default Changelist" comment="" />
+    <list default="true" id="58ba86f2-fa78-431c-9efd-a6974adceaa0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/old/Todo/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/todosCounter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/12_03_2020_cw.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todo/Todo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/Todo/Todo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todo/Todo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoAdd/TodoAdd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoAdd/TodoAdd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoApp/TodoApp.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoApp/TodoApp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todos/Todos.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todos/Todos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todos/Todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todos/Todos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -32,6 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -40,10 +60,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/" />
+      <recent name="$PROJECT_DIR$/src/old" />
+      <recent name="$PROJECT_DIR$/old/" />
       <recent name="$PROJECT_DIR$/src/components/Todos" />
       <recent name="$PROJECT_DIR$/src/components/TodoApp" />
-      <recent name="$PROJECT_DIR$/src/components/TodoAdd" />
-      <recent name="$PROJECT_DIR$/src/components/Todo" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -71,7 +92,12 @@
       <workItem from="1607420143034" duration="4740000" />
       <workItem from="1607540899394" duration="32000" />
       <workItem from="1607545280768" duration="2769000" />
-      <workItem from="1607590129982" duration="481000" />
+      <workItem from="1607590129982" duration="1356000" />
+      <workItem from="1607939443866" duration="3049000" />
+      <workItem from="1610429406128" duration="168000" />
+      <workItem from="1610429576680" duration="6701000" />
+      <workItem from="1610440386800" duration="1368000" />
+      <workItem from="1610442575805" duration="161000" />
     </task>
     <task id="LOCAL-00001" summary="whole code">
       <created>1607344998661</created>
@@ -129,15 +155,19 @@
       <screen x="0" y="25" width="1440" height="799" />
     </state>
     <state x="522" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.799@0.25.1440.799" timestamp="1607350356408" />
-    <state x="489" y="-992" width="1050" height="530" key="dock-window-1" timestamp="1607257799406">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state x="714" y="171" width="726" height="445" key="dock-window-1" timestamp="1610442736297">
+      <screen x="0" y="25" width="1440" height="804" />
     </state>
-    <state x="489" y="-992" width="1050" height="530" key="dock-window-1/0.25.1440.801/0.-1080.1920.1080@0.25.1440.801" timestamp="1607257799406" />
-    <state x="865" y="-1078" width="1055" height="1078" key="dock-window-1/0.25.1440.804/0.-1080.1920.1080@0.25.1440.804" timestamp="1607175541494" />
-    <state x="385" y="151" width="670" height="666" key="search.everywhere.popup" timestamp="1607547205374">
-      <screen x="0" y="25" width="1440" height="791" />
+    <state x="918" y="-1049" width="968" height="597" key="dock-window-1/0.25.1440.801/0.-1080.1920.1080@0.25.1440.801" timestamp="1610430681893" />
+    <state x="438" y="25" width="968" height="597" key="dock-window-1/0.25.1440.801@0.25.1440.801" timestamp="1610433416638" />
+    <state x="857" y="-870" width="968" height="597" key="dock-window-1/0.25.1440.804/0.-1080.1920.1080@0.25.1440.804" timestamp="1610435383325" />
+    <state x="714" y="171" width="726" height="445" key="dock-window-1/0.25.1440.804@0.25.1440.804" timestamp="1610442736297" />
+    <state x="857" y="-870" width="968" height="597" key="dock-window-1/0.25.1440.805/0.-1080.1920.1080@0.25.1440.805" timestamp="1610438340081" />
+    <state x="385" y="153" width="670" height="677" key="search.everywhere.popup" timestamp="1610441405698">
+      <screen x="0" y="25" width="1440" height="804" />
     </state>
     <state x="385" y="151" width="670" height="666" key="search.everywhere.popup/0.25.1440.791@0.25.1440.791" timestamp="1607547205374" />
     <state x="385" y="153" width="670" height="676" key="search.everywhere.popup/0.25.1440.804/0.-1080.1920.1080@0.25.1440.804" timestamp="1607012178219" />
+    <state x="385" y="153" width="670" height="677" key="search.everywhere.popup/0.25.1440.804@0.25.1440.804" timestamp="1610441405698" />
   </component>
 </project>

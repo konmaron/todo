@@ -5,3 +5,39 @@ ul{
     margin: 0;
     padding: 0;
 }
+
+li{
+    display: flex;
+    list-style: none;
+    border: groove 2px #2699FB;
+    margin: 8px 0;
+    height: 38px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.checkbox{
+    width: 17px;
+    height: 17px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+span{
+    color: #2699FB;
+    font-weight: bold;
+    width: 255px;
+}
+
+.removeButton{
+    background-color: #2699FB;
+    color: #fff;
+    margin: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 3px;
+    min-width: 90px;
+    min-height: 30px;
+    border: none;
+    cursor: pointer;
+}
